@@ -15,7 +15,8 @@ Créez un fichier .env à la racine de votre projet et ajoutez les variables d'e
 
 Exemple de fichier .env :  
     ```
-    HTTP_PROVIDER=https://your-ethereum-node-url    
+    HTTP_PROVIDER=https://your-ethereum-node-url
+    
     DISCORD_BOT_TOKEN=your-discord-bot-token
     ```
 ## Utilisation
