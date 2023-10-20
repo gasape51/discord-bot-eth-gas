@@ -9,20 +9,18 @@ Assurez-vous d'installer les dépendances requises en utilisant `pip`. Vous pouv
    ```bash
    pip install -r requirements.txt
    ```
-    Créez un fichier .env à la racine de votre projet et ajoutez les variables d'environnement suivantes :
-        HTTP_PROVIDER: Le fournisseur HTTP pour votre nœud Ethereum.
-        DISCORD_BOT_TOKEN: Le token de votre bot Discord.
+Créez un fichier .env à la racine de votre projet et ajoutez les variables d'environnement suivantes :
+   HTTP_PROVIDER: Le fournisseur HTTP pour votre nœud Ethereum.
+   DISCORD_BOT_TOKEN: Le token de votre bot Discord.
 
-    Exemple de fichier .env :
-
-    dotenv
-
+Exemple de fichier .env :
+    ```
     HTTP_PROVIDER=https://your-ethereum-node-url
     DISCORD_BOT_TOKEN=your-discord-bot-token
-
+    ```
 ## Utilisation
 
-    Exécutez le script Python en utilisant la commande suivante :
+Exécutez le script Python en utilisant la commande suivante :
 
    ```bash
 python votre_script.py
