@@ -14,10 +14,10 @@ Créez un fichier .env à la racine de votre projet et ajoutez les variables d'e
    DISCORD_BOT_TOKEN: Le token de votre bot Discord.
 
 Exemple de fichier .env :  
-    ```
+```
     HTTP_PROVIDER=https://your-ethereum-node-url  
     DISCORD_BOT_TOKEN=your-discord-bot-token
-    ```
+```
 ## Utilisation
 
 Exécutez le script Python en utilisant la commande suivante :
