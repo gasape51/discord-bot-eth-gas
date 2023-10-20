@@ -13,9 +13,9 @@ Créez un fichier .env à la racine de votre projet et ajoutez les variables d'e
    HTTP_PROVIDER: Le fournisseur HTTP pour votre nœud Ethereum.
    DISCORD_BOT_TOKEN: Le token de votre bot Discord.
 
-Exemple de fichier .env :
+Exemple de fichier .env :  
     ```
-    HTTP_PROVIDER=https://your-ethereum-node-url
+    HTTP_PROVIDER=https://your-ethereum-node-url  
     DISCORD_BOT_TOKEN=your-discord-bot-token
     ```
 ## Utilisation
