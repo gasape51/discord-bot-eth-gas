@@ -23,7 +23,7 @@ Exemple de fichier .env :
 Exécutez le script Python en utilisant la commande suivante :
 
    ```bash
-python votre_script.py
+python gas_bot.py
    ```
 
 Le bot Discord utilise le préfixe ! pour exécuter des commandes. Voici quelques commandes disponibles :
